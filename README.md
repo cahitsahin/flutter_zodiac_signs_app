@@ -1,6 +1,6 @@
 # flutter_zodiac_signs
 
-A new Flutter project.
+A simple app that contains details about zodiac signs
 
 ## Getting Started
 
