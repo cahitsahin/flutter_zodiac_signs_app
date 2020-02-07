@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       title: "Zodiac Signs",
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.amber,
+        primarySwatch: Colors.pink,
       ),
       home: ZodiacList(),
     );

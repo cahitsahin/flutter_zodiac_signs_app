@@ -4,7 +4,7 @@ import 'models/sign_model.dart';
 import 'utils/strings.dart';
 
 class ZodiacList extends StatelessWidget {
-  List<Sign> allSigns;
+  static List<Sign> allSigns;
 
   @override
   Widget build(BuildContext context) {
