@@ -17,18 +17,18 @@ class Strings {
   ];
 
   static const List<String> SIGN_DATES = [
-    "21 March - 20 April",
-    "21 April - 21 May",
-    "22 May - 22 June",
-    "23 June - 22 July",
-    "23 July - 22 August",
-    "23 August - 22 September",
-    "23 September - 22 Oktober",
-    "23 Oktober - 21 November",
-    "22 November - 21 December",
-    "22 December - 21 January",
-    "22 January - 19 February",
-    "20 February - 20 March"
+    "March 21 - April 20",
+    "April 21 - May 21",
+    "May 22 - June 22",
+    "June 23 - July 22",
+    "July 23 - August 22",
+    "August 23 - September 22",
+    "September 23 - Oktober 22",
+    "Oktober 23 - November 21",
+    "November 22 - December 21",
+    "December 22 - January 21",
+    "January 22 - February 19",
+    "February 20 - March 20"
   ];
 
   static const List<String> SIGN_GENERAL_DETAILS =[

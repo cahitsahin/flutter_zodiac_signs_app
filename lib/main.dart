@@ -9,6 +9,7 @@ class MyApp extends StatelessWidget {
     // TODO: implement build
     return MaterialApp(
       title: "Zodiac Signs",
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.amber,
       ),
