@@ -1,5 +1,4 @@
 # Zodiac Signs App
-
 A simple flutter app that contains details about zodiac signs.
 
 ## Getting Started
