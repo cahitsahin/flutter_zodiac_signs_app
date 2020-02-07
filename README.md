@@ -1,6 +1,6 @@
-# flutter_zodiac_signs
+# Zodiac Signs App
 
-A simple app that contains details about zodiac signs
+A simple flutter app that contains details about zodiac signs.
 
 ## Getting Started
 
